@@ -1,8 +1,8 @@
 # Smoke or Fire
 
-Author: Nick Blackburn in 2015
+Author: Nicholas Blackburn in 2015
 
-Description: Choose a card through each game cycle and try to pick the correct answer.
+Description: Fun iOS app Card Game --> Choose a card through each game cycle and try to pick the correct answer.
 
 1. Smoke (black card) or Fire (red card).
 2. Higher or Lower (compared to the first card pulled).
